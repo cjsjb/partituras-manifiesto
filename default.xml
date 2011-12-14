@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote name="gitorious"
+		fetch="git://gitorious.org/cjsjb-partituras/" />
+	<default remote="gitorious"
+		 revision="master" />
+
+	<!-- Entrada -->
+	<project path="partituras/alabanzas"
+		 name="alabanzas.git" />
+	<project path="partituras/venganysubamos"
+		 name="venganysubamos.git" />
+	<project path="partituras/losninnoshebreos"
+		 name="losninnoshebreos.git" />
+	<project path="partituras/resucitoresucito"
+		 name="resucitoresucito.git" />
+
+	<!-- Kirie -->
+	<project path="partituras/sennortenpiedadlamenor"
+		 name="sennortenpiedadlamenor.git" />
+	<project path="partituras/sennortenpiedad64"
+		 name="sennortenpiedad64.git" />
+	<project path="partituras/sennortenpiedadgem"
+		 name="sennortenpiedadgem.git" />
+
+	<!-- Gloria -->
+	<project path="partituras/gloriacombo"
+		 name="gloriacombo.git" />
+
+	<!-- Aleluya / Honor y gloria -->
+	<project path="partituras/aleluyaalcreador"
+		 name="aleluyaalcreador.git" />
+	<project path="partituras/buscaprimero"
+		 name="buscaprimero.git" />
+	<project path="partituras/cantaaleluya"
+		 name="cantaaleluya.git" />
+	<project path="partituras/honorygloriaati"
+		 name="honorygloriaati.git" />
+
+	<!-- Ofertorio -->
+	<project path="partituras/hemosentregado"
+		name="hemosentregado.git" />
+
+	<!-- Santo -->
+	<project path="partituras/santogenrv"
+		 name="santogenrv.git" />
+	<project path="partituras/santolentoytriste"
+		 name="santolentoytriste.git" />
+	<project path="partituras/santosanto"
+		 name="santosanto.git" />
+
+	<!-- Cordero de Dios -->
+	<project path="partituras/corderodedioscococo"
+		 name="cococo.git" />
+	<project path="partituras/corderodediosflechitas"
+		 name="corderoflechitas.git" />
+	<project path="partituras/corderodediosgflores"
+		 name="msjbcordero.git" />
+	<project path="partituras/corderodediosmejia"
+		 name="corderomejia.git" />
+	<project path="partituras/corderodediosrvaldes"
+		 name="corderorvaldes.git" />
+
+	<!-- Comunión -->
+	<project path="partituras/confiareenyahve"
+		 name="confiareenyahve.git" />
+	<project path="partituras/jesusamigo"
+		 name="jesusamigo.git" />
+	<project path="partituras/misionerodedios"
+		 name="misionerodedios.git" />
+	<project path="partituras/navidadnavidad"
+		 name="navidadnavidad.git" />
+
+	<!-- Salida -->
+	<project path="partituras/elfarol"
+		 name="elfarol.git" />
+
+</manifest>
