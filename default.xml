@@ -1,79 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
-	<remote name="gitorious"
-		fetch="git://gitorious.org/cjsjb-partituras/" />
-	<default remote="gitorious"
-		 revision="master" />
-
-	<!-- Entrada -->
-	<project path="partituras/alabanzas"
-		 name="alabanzas.git" />
-	<project path="partituras/venganysubamos"
-		 name="venganysubamos.git" />
-	<project path="partituras/losninnoshebreos"
-		 name="losninnoshebreos.git" />
-	<project path="partituras/resucitoresucito"
-		 name="resucitoresucito.git" />
-
-	<!-- Kirie -->
-	<project path="partituras/sennortenpiedadlamenor"
-		 name="sennortenpiedadlamenor.git" />
-	<project path="partituras/sennortenpiedad64"
-		 name="sennortenpiedad64.git" />
-	<project path="partituras/sennortenpiedadgem"
-		 name="sennortenpiedadgem.git" />
-
-	<!-- Gloria -->
-	<project path="partituras/gloriacombo"
-		 name="gloriacombo.git" />
-
-	<!-- Aleluya / Honor y gloria -->
-	<project path="partituras/aleluyaalcreador"
-		 name="aleluyaalcreador.git" />
-	<project path="partituras/buscaprimero"
-		 name="buscaprimero.git" />
-	<project path="partituras/cantaaleluya"
-		 name="cantaaleluya.git" />
-	<project path="partituras/honorygloriaati"
-		 name="honorygloriaati.git" />
-
-	<!-- Ofertorio -->
-	<project path="partituras/hemosentregado"
-		name="hemosentregado.git" />
-
-	<!-- Santo -->
-	<project path="partituras/santogenrv"
-		 name="santogenrv.git" />
-	<project path="partituras/santolentoytriste"
-		 name="santolentoytriste.git" />
-	<project path="partituras/santosanto"
-		 name="santosanto.git" />
-
-	<!-- Cordero de Dios -->
-	<project path="partituras/corderodedioscococo"
-		 name="cococo.git" />
-	<project path="partituras/corderodediosflechitas"
-		 name="corderoflechitas.git" />
-	<project path="partituras/corderodediosgflores"
-		 name="msjbcordero.git" />
-	<project path="partituras/corderodediosmejia"
-		 name="corderomejia.git" />
-	<project path="partituras/corderodediosrvaldes"
-		 name="corderorvaldes.git" />
-
-	<!-- Comunión -->
-	<project path="partituras/confiareenyahve"
-		 name="confiareenyahve.git" />
-	<project path="partituras/jesusamigo"
-		 name="jesusamigo.git" />
-	<project path="partituras/misionerodedios"
-		 name="misionerodedios.git" />
-	<project path="partituras/navidadnavidad"
-		 name="navidadnavidad.git" />
-
-	<!-- Salida -->
-	<project path="partituras/elfarol"
-		 name="elfarol.git" />
-
+  <remote fetch="git://gitorious.org/cjsjb-partituras/" name="gitorious"/>
+  
+  <default remote="gitorious" revision="master"/>
+  
+  <project name="alabanzas.git" path="partituras/alabanzas" revision="4e18d47e767fddc474edc26c19edf19c6bcaf4ca"/>
+  <project name="aleluyaalcreador.git" path="partituras/aleluyaalcreador" revision="49ce6d3f176f2d7115a898502c67209155606ede"/>
+  <project name="buscaprimero.git" path="partituras/buscaprimero" revision="8e3974f98f52eb3d071d6868c046d80d81246f41"/>
+  <project name="cantaaleluya.git" path="partituras/cantaaleluya" revision="c98a2ae04ecc4c72d01b0b8f513d8e0dd8b8069c"/>
+  <project name="cococo.git" path="partituras/corderodedioscococo" revision="049191658ab3d5445d8860fd00a6076014a095af"/>
+  <project name="confiareenyahve.git" path="partituras/confiareenyahve" revision="5a78c775cf1abd9913132283f358280a5defa22d"/>
+  <project name="corderoflechitas.git" path="partituras/corderodediosflechitas" revision="f7912e3d0a68b5119180e1bd99ef7844ae9978eb"/>
+  <project name="corderomejia.git" path="partituras/corderodediosmejia" revision="b45fd69724b01e0c3a7f5c30cab638316ef067ff"/>
+  <project name="corderorvaldes.git" path="partituras/corderodediosrvaldes" revision="209fdcb11f6d755ff430ad70aa5b04408848031e"/>
+  <project name="elfarol.git" path="partituras/elfarol" revision="b05c62470dcff09ca4b113399924a77d910494ef"/>
+  <project name="gloriacombo.git" path="partituras/gloriacombo" revision="d7061505ca36606fd308fb472ce6ba2cf5d191ad"/>
+  <project name="hemosentregado.git" path="partituras/hemosentregado" revision="8b2e0de30f870527b64d1a5438c3b52156c9a496"/>
+  <project name="honorygloriaati.git" path="partituras/honorygloriaati" revision="ef51fa9a6ccd8fcf0692755599c51919f8503362"/>
+  <project name="jesusamigo.git" path="partituras/jesusamigo" revision="83f303557703f01f24d931af7a42371e48c901dd"/>
+  <project name="losninnoshebreos.git" path="partituras/losninnoshebreos" revision="c75b34c0ebfc9225094105b03eeaa98ae5038788"/>
+  <project name="misionerodedios.git" path="partituras/misionerodedios" revision="fe0b5b77a65db0fed0663c3f43becbbed4c830f8"/>
+  <project name="msjbcordero.git" path="partituras/corderodediosgflores" revision="22a4cb50da91d632c2047455f8c00dbfe8f717a8"/>
+  <project name="navidadnavidad.git" path="partituras/navidadnavidad" revision="d6afdf4723e8ba26e0330babf1dfb09a49470901"/>
+  <project name="resucitoresucito.git" path="partituras/resucitoresucito" revision="c6e1683373540b842f200b47a73d7841268bcede"/>
+  <project name="santogenrv.git" path="partituras/santogenrv" revision="f643adfff9920734b18da98e54cbbd3869403334"/>
+  <project name="santolentoytriste.git" path="partituras/santolentoytriste" revision="34248a526547833959205ca191e7a0fd869a6a40"/>
+  <project name="santosanto.git" path="partituras/santosanto" revision="d922f9738706943142eca2c91d53fcf66687f7f8"/>
+  <project name="sennortenpiedad64.git" path="partituras/sennortenpiedad64" revision="78d17adbac46bf57f4e06ea640daa9a5800bce80"/>
+  <project name="sennortenpiedadgem.git" path="partituras/sennortenpiedadgem" revision="fa37359a53faf68fdd3648751c4a694e1cdd7331"/>
+  <project name="sennortenpiedadlamenor.git" path="partituras/sennortenpiedadlamenor" revision="9a4b0f1dbe063e8a83107e3a55b48561445ed786"/>
+  <project name="venganysubamos.git" path="partituras/venganysubamos" revision="cbfe20d8b42b7a365b35a3c094e830f07d79c9dc"/>
 </manifest>
