@@ -31,6 +31,8 @@
 	<!-- Aleluya / Honor y gloria -->
 	<project path="partituras/aleluyaalcreador"
 		 name="aleluyaalcreador.git" />
+	<project path="partituras/aleluyarvaldes"
+		 name="aleluyarvaldes.git" />
 	<project path="partituras/buscaprimero"
 		 name="buscaprimero.git" />
 	<project path="partituras/cantaaleluya"
