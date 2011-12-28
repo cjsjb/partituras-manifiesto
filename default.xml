@@ -23,6 +23,7 @@
   <project name="misionerodedios.git" path="partituras/misionerodedios" revision="4258095f9a10746c040c7f95fc11fa052f127f6e"/>
   <project name="msjbcordero.git" path="partituras/corderodediosgflores" revision="7a0bebe11bc7ef4d459f3c2d44131170c0092a4d"/>
   <project name="navidadnavidad.git" path="partituras/navidadnavidad" revision="e89a6f9edd51f0497014466c9d8d2d4d1aa6aad9"/>
+  <project name="nochedepaz.git" path="partituras/nochedepaz" revision="f3a3bb8392ce64715b5d58933d58c260f1948e07"/>
   <project name="resucitoresucito.git" path="partituras/resucitoresucito" revision="fce3673d91ac06c399cc4ef95d6bb943e5a344b5"/>
   <project name="santogenrv.git" path="partituras/santogenrv" revision="18c7cc2665bd6052754c90bead94fdeac0348085"/>
   <project name="santolentoytriste.git" path="partituras/santolentoytriste" revision="eb008ca14ca9466d637cfffe2f5f40f0e5a1cf9e"/>
