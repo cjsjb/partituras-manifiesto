@@ -8,76 +8,160 @@
 
 	<!-- Entrada -->
 	<project path="partituras/alabanzas"
-		 name="alabanzas.git" />
+		 name="alabanzas.git"
+		 title="Alabanzas al Señor"
+		 category="Entrada"
+		 />
 	<project path="partituras/venganysubamos"
-		 name="venganysubamos.git" />
+		 name="venganysubamos.git"
+		 title="Vengan y subamos"
+		 category="Entrada"
+		 />
 	<project path="partituras/losninnoshebreos"
-		 name="losninnoshebreos.git" />
+		 name="losninnoshebreos.git"
+		 title="Los niños hebreos"
+		 category="Entrada"
+		 />
 	<project path="partituras/resucitoresucito"
-		 name="resucitoresucito.git" />
+		 name="resucitoresucito.git"
+		 title="Resucitó, resucitó"
+		 category="Entrada"
+		 />
 
 	<!-- Kirie -->
 	<project path="partituras/sennortenpiedadlamenor"
-		 name="sennortenpiedadlamenor.git" />
+		 name="sennortenpiedadlamenor.git"
+		 title="Señor, ten piedad (la menor)"
+		 category="Kirie"
+		 />
 	<project path="partituras/sennortenpiedad64"
-		 name="sennortenpiedad64.git" />
+		 name="sennortenpiedad64.git"
+		 title="Señor, ten piedad (6/4)"
+		 category="Kirie"
+		 />
 	<project path="partituras/sennortenpiedadgem"
-		 name="sennortenpiedadgem.git" />
+		 name="sennortenpiedadgem.git"
+		 title="Señor, ten piedad (G.E.M.)"
+		 category="Kirie"
+		 />
 
 	<!-- Gloria -->
 	<project path="partituras/gloriacombo"
-		 name="gloriacombo.git" />
+		 name="gloriacombo.git"
+		 title="Gloria (combo)"
+		 category="Gloria"
+		 />
 
 	<!-- Aleluya / Honor y gloria -->
 	<project path="partituras/aleluyaalcreador"
-		 name="aleluyaalcreador.git" />
+		 name="aleluyaalcreador.git"
+		 title="Aleluya al creador"
+		 category="Aleluya / Honor y gloria"
+		 />
 	<project path="partituras/aleluyarvaldes"
-		 name="aleluyarvaldes.git" />
+		 name="aleluyarvaldes.git"
+		 title="Aleluya (R. Valdés)"
+		 category="Aleluya / Honor y gloria"
+		 />
 	<project path="partituras/buscaprimero"
-		 name="buscaprimero.git" />
+		 name="buscaprimero.git"
+		 title="Busca primero"
+		 category="Aleluya / Honor y gloria"
+		 />
 	<project path="partituras/cantaaleluya"
-		 name="cantaaleluya.git" />
+		 name="cantaaleluya.git"
+		 title="Canta aleluya"
+		 category="Aleluya / Honor y gloria"
+		 />
 	<project path="partituras/honorygloriaati"
-		 name="honorygloriaati.git" />
+		 name="honorygloriaati.git"
+		 title="Honor y gloria a ti"
+		 category="Aleluya / Honor y gloria"
+		 />
 
 	<!-- Ofertorio -->
 	<project path="partituras/hemosentregado"
-		name="hemosentregado.git" />
+		 name="hemosentregado.git"
+		 title="Hemos entregado nuestras vidas"
+		 category="Ofertorio"
+		 />
 
 	<!-- Santo -->
 	<project path="partituras/santogenrv"
-		 name="santogenrv.git" />
+		 name="santogenrv.git"
+		 title="Santo (Gen R/V)"
+		 category="Ofertorio"
+		 />
 	<project path="partituras/santolentoytriste"
-		 name="santolentoytriste.git" />
+		 name="santolentoytriste.git"
+		 title="Santo (lento y triste)"
+		 category="Ofertorio"
+		 />
 	<project path="partituras/santosanto"
-		 name="santosanto.git" />
+		 name="santosanto.git"
+		 title="Santo, santo"
+		 category="Ofertorio"
+		 />
 
 	<!-- Cordero de Dios -->
 	<project path="partituras/corderodedioscococo"
-		 name="cococo.git" />
+		 name="cococo.git"
+		 title="Cordero de Dios (cococó)"
+		 category="Cordero de Dios"
+		 />
 	<project path="partituras/corderodediosflechitas"
-		 name="corderoflechitas.git" />
+		 name="corderoflechitas.git"
+		 title="Cordero de Dios (flechitas)"
+		 category="Cordero de Dios"
+		 />
 	<project path="partituras/corderodediosgflores"
-		 name="msjbcordero.git" />
+		 name="msjbcordero.git"
+		 title="Cordero de Dios (G. Flores)"
+		 category="Cordero de Dios"
+		 />
 	<project path="partituras/corderodediosmejia"
-		 name="corderomejia.git" />
+		 name="corderomejia.git"
+		 title="Cordero de Dios (A. Mejía)"
+		 category="Cordero de Dios"
+		 />
 	<project path="partituras/corderodediosrvaldes"
-		 name="corderorvaldes.git" />
+		 name="corderorvaldes.git"
+		 title="Cordero de Dios (R. Valdés)"
+		 category="Cordero de Dios"
+		 />
 
 	<!-- Comunión -->
 	<project path="partituras/confiareenyahve"
-		 name="confiareenyahve.git" />
+		 name="confiareenyahve.git"
+		 title="Confiaré en Yahvé"
+		 category="Comunión"
+		 />
 	<project path="partituras/jesusamigo"
-		 name="jesusamigo.git" />
+		 name="jesusamigo.git"
+		 title="Jesús amigo"
+		 category="Comunión"
+		 />
 	<project path="partituras/misionerodedios"
-		 name="misionerodedios.git" />
+		 name="misionerodedios.git"
+		 title="Misionero de Dios"
+		 category="Comunión"
+		 />
 	<project path="partituras/navidadnavidad"
-		 name="navidadnavidad.git" />
+		 name="navidadnavidad.git"
+		 title="Navidad, Navidad"
+		 category="Comunión"
+		 />
 
 	<!-- Salida -->
 	<project path="partituras/elfarol"
-		 name="elfarol.git" />
+		 name="elfarol.git"
+		 title="El farol"
+		 category="Salida"
+		 />
 	<project path="partituras/nochedepaz"
-		 name="nochedepaz.git" />
+		 name="nochedepaz.git"
+		 title="Noche de paz"
+		 category="Salida"
+		 />
 
 </manifest>
