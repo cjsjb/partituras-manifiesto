@@ -44,6 +44,11 @@
 		 title="Señor, ten piedad (G.E.M.)"
 		 category="Kirie"
 		 />
+	<project path="partituras/sennortenpiedadcombo"
+		 name="sennortenpiedadcombo.git"
+		 title="Señor, ten piedad (combo)"
+		 category="Kirie"
+		 />
 
 	<!-- Gloria -->
 	<project path="partituras/gloriacombo"
