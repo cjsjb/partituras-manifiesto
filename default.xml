@@ -102,6 +102,11 @@
 		 title="Santo (lento y triste)"
 		 category="Santo"
 		 />
+	<project path="partituras/santopacto"
+		 name="santopacto.git"
+		 title="Santo pacto"
+		 category="Santo"
+		 />
 	<project path="partituras/santosanto"
 		 name="santosanto.git"
 		 title="Santo, santo"
