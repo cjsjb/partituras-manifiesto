@@ -95,17 +95,17 @@
 	<project path="partituras/santogenrv"
 		 name="santogenrv.git"
 		 title="Santo (Gen R/V)"
-		 category="Ofertorio"
+		 category="Santo"
 		 />
 	<project path="partituras/santolentoytriste"
 		 name="santolentoytriste.git"
 		 title="Santo (lento y triste)"
-		 category="Ofertorio"
+		 category="Santo"
 		 />
 	<project path="partituras/santosanto"
 		 name="santosanto.git"
 		 title="Santo, santo"
-		 category="Ofertorio"
+		 category="Santo"
 		 />
 
 	<!-- Cordero de Dios -->
