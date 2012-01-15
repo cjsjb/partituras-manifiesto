@@ -178,5 +178,10 @@
 		 title="Noche de paz"
 		 category="Salida"
 		 />
+	<project path="partituras/aunquemarcheporlaoscuridad"
+		 name="aunquemarcheporlaoscuridad.git"
+		 title="Aunque marche por la oscuridad"
+		 category="Salida"
+		 />
 
 </manifest>
