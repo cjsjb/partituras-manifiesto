@@ -5,7 +5,7 @@
   <default remote="gitorious" revision="master"/>
   
   <project name="alabanzas.git" path="partituras/alabanzas" revision="c031de0d84367fee03df44e7eb04edff2138963b"/>
-  <project name="aleluyaalcreador.git" path="partituras/aleluyaalcreador" revision="ff750a9cea36f27441cd8e9badc75c9320d3593b"/>
+  <project name="aleluyaalcreador.git" path="partituras/aleluyaalcreador" revision="9f0872564ce98128972625ff35cc0e08e6829894"/>
   <project name="aleluyarvaldes.git" path="partituras/aleluyarvaldes" revision="23bff8536c61591c314c91fec0013053f7902681"/>
   <project name="aunquemarcheporlaoscuridad.git" path="partituras/aunquemarcheporlaoscuridad" revision="b6e6396b91c2476e94ecd9dd1c43e9ae38f11b0a"/>
   <project name="buscaprimero.git" path="partituras/buscaprimero" revision="004adf4e5f3c121dfe79c5fcc539101c2d4653ee"/>
