@@ -12,9 +12,9 @@
 		 title="Alabanzas al Señor"
 		 category="Entrada"
 		 />
-	<project path="partituras/venganysubamos"
-		 name="venganysubamos.git"
-		 title="Vengan y subamos"
+	<project path="partituras/comolecantarealsennor"
+		 name="comolecantarealsennor.git"
+		 title="Cómo le cantaré al Señor"
 		 category="Entrada"
 		 />
 	<project path="partituras/losninnoshebreos"
@@ -27,9 +27,9 @@
 		 title="Resucitó, resucitó"
 		 category="Entrada"
 		 />
-	<project path="partituras/comolecantarealsennor"
-		 name="comolecantarealsennor.git"
-		 title="Cómo le cantaré al Señor"
+	<project path="partituras/venganysubamos"
+		 name="venganysubamos.git"
+		 title="Vengan y subamos"
 		 category="Entrada"
 		 />
 
