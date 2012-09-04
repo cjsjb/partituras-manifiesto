@@ -156,6 +156,11 @@
 		 title="Jesús amigo"
 		 category="Comunión"
 		 />
+	<project path="partituras/misalvador"
+		 name="misalvador.git"
+		 title="Mi salvador"
+		 category="Comunión"
+		 />
 	<project path="partituras/misionerodedios"
 		 name="misionerodedios.git"
 		 title="Misionero de Dios"
