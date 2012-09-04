@@ -77,6 +77,7 @@
 		 name="buscaprimero.git"
 		 title="Busca primero"
 		 category="Aleluya / Honor y gloria"
+		 score="buscaprimero3"
 		 />
 	<project path="partituras/cantaaleluya"
 		 name="cantaaleluya.git"
@@ -123,26 +124,31 @@
 		 name="cococo.git"
 		 title="Cordero de Dios (cococó)"
 		 category="Cordero de Dios"
+		 score="cococo"
 		 />
 	<project path="partituras/corderodediosflechitas"
 		 name="corderoflechitas.git"
 		 title="Cordero de Dios (flechitas)"
 		 category="Cordero de Dios"
+		 score="corderoflechitas"
 		 />
 	<project path="partituras/corderodediosgflores"
 		 name="msjbcordero.git"
 		 title="Cordero de Dios (G. Flores)"
 		 category="Cordero de Dios"
+		 score="msjbcordero3"
 		 />
 	<project path="partituras/corderodediosmejia"
 		 name="corderomejia.git"
 		 title="Cordero de Dios (A. Mejía)"
 		 category="Cordero de Dios"
+		 score="corderodedios2"
 		 />
 	<project path="partituras/corderodediosrvaldes"
 		 name="corderorvaldes.git"
 		 title="Cordero de Dios (R. Valdés)"
 		 category="Cordero de Dios"
+		 score="corderorvaldes"
 		 />
 
 	<!-- Comunión -->
