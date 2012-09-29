@@ -91,6 +91,12 @@
 		 />
 
 	<!-- Ofertorio -->
+	<project path="partituras/bendicenuestrosdones"
+		 name="bendicenuestrosdones.git"
+		 title="Bendice nuestros dones"
+		 category="Ofertorio"
+		 />
+
 	<project path="partituras/hemosentregado"
 		 name="hemosentregado.git"
 		 title="Hemos entregado nuestras vidas"
