@@ -44,6 +44,11 @@
 		 title="Señor, ten piedad (6/4)"
 		 category="Kirie"
 		 />
+	<project path="partituras/sennortenpiedadgflores"
+		 name="sennortenpiedadgflores.git"
+		 title="Señor, ten piedad (G. Flores)"
+		 category="Kirie"
+		 />
 	<project path="partituras/sennortenpiedadgem"
 		 name="sennortenpiedadgem.git"
 		 title="Señor, ten piedad (G.E.M.)"
