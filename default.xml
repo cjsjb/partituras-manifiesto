@@ -138,6 +138,12 @@
 		 category="Cordero de Dios"
 		 score="corderoflechitas"
 		 />
+	<project path="partituras/corderodediosmisalatam"
+		 name="corderodediosmisalatam.git"
+		 title="Cordero de Dios (Misa Latinoamericana)"
+		 category="Cordero de Dios"
+		 score="corderomisacriolla"
+		 />
 	<project path="partituras/corderodediosgflores"
 		 name="msjbcordero.git"
 		 title="Cordero de Dios (G. Flores)"
