@@ -211,6 +211,11 @@
 		 />
 
 	<!-- Salida -->
+	<project path="partituras/aunquemarcheporlaoscuridad"
+		 name="aunquemarcheporlaoscuridad.git"
+		 title="Aunque marche por la oscuridad"
+		 category="Salida"
+		 />
 	<project path="partituras/elfarol"
 		 name="elfarol.git"
 		 title="El farol"
@@ -221,9 +226,9 @@
 		 title="Noche de paz"
 		 category="Salida"
 		 />
-	<project path="partituras/aunquemarcheporlaoscuridad"
-		 name="aunquemarcheporlaoscuridad.git"
-		 title="Aunque marche por la oscuridad"
+	<project path="partituras/reyesdeloriente"
+		 name="reyesdeloriente.git"
+		 title="Reyes del Oriente"
 		 category="Salida"
 		 />
 
