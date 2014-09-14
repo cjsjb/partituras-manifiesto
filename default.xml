@@ -66,6 +66,11 @@
 		 title="Gloria (combo)"
 		 category="Gloria"
 		 />
+	<project path="partituras/gloriajesed"
+		 name="gloriajesed.git"
+		 title="Gloria (Jésed)"
+		 category="Gloria"
+		 />
 
 	<!-- Aleluya / Honor y gloria -->
 	<project path="partituras/aleluyaalcreador"
