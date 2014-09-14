@@ -96,10 +96,14 @@
 		 title="Bendice nuestros dones"
 		 category="Ofertorio"
 		 />
-
 	<project path="partituras/hemosentregado"
 		 name="hemosentregado.git"
 		 title="Hemos entregado nuestras vidas"
+		 category="Ofertorio"
+		 />
+	<project path="partituras/ofertoriogflores"
+		 name="ofertoriogflores.git"
+		 title="Ofertorio (G. Flores)"
 		 category="Ofertorio"
 		 />
 
