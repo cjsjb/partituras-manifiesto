@@ -73,6 +73,12 @@
 		 title="Aleluya al creador"
 		 category="Aleluya / Honor y gloria"
 		 />
+	<project path="partituras/aleluyaloscielos"
+		 name="aleluyaloscielos.git"
+		 title="Aleluya (los cielos y la tierra)"
+		 category="Aleluya / Honor y gloria"
+		 score="loscielos"
+		 />
 	<project path="partituras/aleluyarvaldes"
 		 name="aleluyarvaldes.git"
 		 title="Aleluya (R. Valdés)"
