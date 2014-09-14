@@ -178,6 +178,11 @@
 		 title="Confiaré en Yahvé"
 		 category="Comunión"
 		 />
+	<project path="partituras/hazmeuninstrumentodetupaz"
+		 name="hazmeuninstrumentodetupaz.git"
+		 title="Hazme un insturmento de tu paz"
+		 category="Comunión"
+		 />
 	<project path="partituras/jesusamigo"
 		 name="jesusamigo.git"
 		 title="Jesús amigo"
