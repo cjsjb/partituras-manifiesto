@@ -22,6 +22,11 @@
 		 title="Los niños hebreos"
 		 category="Entrada"
 		 />
+	<project path="partituras/haciatimoradasanta"
+		 name="haciatimoradasanta.git"
+		 title="Hacia ti, morada santa"
+		 category="Entrada"
+		 />
 	<project path="partituras/resucitoresucito"
 		 name="resucitoresucito.git"
 		 title="Resucitó, resucitó"
