@@ -219,6 +219,11 @@
 		 title="Navidad, Navidad"
 		 category="Comunión"
 		 />
+	<project path="partituras/sanastelasheridas"
+		 name="sanastelasheridas.git"
+		 title="Sanaste las heridas"
+		 category="Comunión"
+		 />
 
 	<!-- Salida -->
 	<project path="partituras/aunquemarcheporlaoscuridad"
