@@ -214,9 +214,9 @@
 		 title="Misionero de Dios"
 		 category="Comunión"
 		 />
-	<project path="partituras/navidadnavidad"
-		 name="navidadnavidad.git"
-		 title="Navidad, Navidad"
+	<project path="partituras/hallegadonavidad"
+		 name="hallegadonavidad.git"
+		 title="Ha llegado Navidad"
 		 category="Comunión"
 		 />
 	<project path="partituras/sanastelasheridas"
