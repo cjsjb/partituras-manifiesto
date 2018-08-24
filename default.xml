@@ -282,6 +282,11 @@
 		 title="El farol"
 		 category="Salida"
 		 />
+	<project path="partituras/launcion"
+		 name="launcion.git"
+		 title="La unción"
+		 category="Salida"
+		 />
 	<project path="partituras/nochedepaz"
 		 name="nochedepaz.git"
 		 title="Noche de paz"
