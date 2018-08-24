@@ -155,6 +155,11 @@
 		 title="Santo (Gen R/V)"
 		 category="Santo"
 		 />
+	<project path="partituras/santogflores"
+		 name="santogflores.git"
+		 title="Santo (G. Flores)"
+		 category="Santo"
+		 />
 	<project path="partituras/santolentoytriste"
 		 name="santolentoytriste.git"
 		 title="Santo (lento y triste)"
