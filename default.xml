@@ -240,6 +240,11 @@
 		 title="Hazme un insturmento de tu paz"
 		 category="Comunión"
 		 />
+	<project path="partituras/hogardefe"
+		 name="hogardefe.git"
+		 title="Hogar de fe"
+		 category="Comunión"
+		 />
 	<project path="partituras/jesusamigo"
 		 name="jesusamigo.git"
 		 title="Jesús amigo"
