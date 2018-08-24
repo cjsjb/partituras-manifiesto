@@ -152,13 +152,13 @@
 
 	<!-- Cordero de Dios -->
 	<project path="partituras/corderodedioscococo"
-		 name="cococo.git"
+		 name="corderodedioscococo.git"
 		 title="Cordero de Dios (cococó)"
 		 category="Cordero de Dios"
 		 score="cococo"
 		 />
 	<project path="partituras/corderodediosflechitas"
-		 name="corderoflechitas.git"
+		 name="corderodediosflechitas.git"
 		 title="Cordero de Dios (flechitas)"
 		 category="Cordero de Dios"
 		 score="corderoflechitas"
@@ -170,19 +170,19 @@
 		 score="corderomisacriolla"
 		 />
 	<project path="partituras/corderodediosgflores"
-		 name="msjbcordero.git"
+		 name="corderodediosgflores.git"
 		 title="Cordero de Dios (G. Flores)"
 		 category="Cordero de Dios"
 		 score="msjbcordero3"
 		 />
 	<project path="partituras/corderodediosmejia"
-		 name="corderomejia.git"
+		 name="corderodediosmejia.git"
 		 title="Cordero de Dios (A. Mejía)"
 		 category="Cordero de Dios"
 		 score="corderodedios2"
 		 />
 	<project path="partituras/corderodediosrvaldes"
-		 name="corderorvaldes.git"
+		 name="corderodediosrvaldes.git"
 		 title="Cordero de Dios (R. Valdés)"
 		 category="Cordero de Dios"
 		 score="corderorvaldes"
