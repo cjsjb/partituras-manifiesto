@@ -247,4 +247,9 @@
 		 category="Salida"
 		 />
 
+	<!-- Utilerías -->
+	<project path="utilerias"
+		 name="utilerias.git"
+		 />
+
 </manifest>
