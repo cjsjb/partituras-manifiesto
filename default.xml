@@ -255,6 +255,11 @@
 		 title="Jesús amigo"
 		 category="Comunión"
 		 />
+	<project path="partituras/milagrodeamor"
+		 name="milagrodeamor.git"
+		 title="Milagro de amor"
+		 category="Comunión"
+		 />
 	<project path="partituras/misalvador"
 		 name="misalvador.git"
 		 title="Mi salvador"
