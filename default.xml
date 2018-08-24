@@ -282,6 +282,11 @@
 		 title="Aunque marche por la oscuridad"
 		 category="Salida"
 		 />
+	<project path="partituras/cantare"
+		 name="cantare.git"
+		 title="Cantaré"
+		 category="Salida"
+		 />
 	<project path="partituras/elfarol"
 		 name="elfarol.git"
 		 title="El farol"
