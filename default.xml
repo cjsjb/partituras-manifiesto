@@ -17,6 +17,11 @@
 		 title="Cómo le cantaré al Señor"
 		 category="Entrada"
 		 />
+	<project path="partituras/entradasalmo94"
+		 name="entradasalmo94.git"
+		 title="Entrada (Salmo 94)"
+		 category="Entrada"
+		 />
 	<project path="partituras/losninnoshebreos"
 		 name="losninnoshebreos.git"
 		 title="Los niños hebreos"
