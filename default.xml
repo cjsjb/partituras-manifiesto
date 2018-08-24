@@ -81,6 +81,11 @@
 		 title="Gloria (Jésed)"
 		 category="Gloria"
 		 />
+	<project path="partituras/gloriagflores"
+		 name="gloriagflores.git"
+		 title="Gloria (G. Flores)"
+		 category="Gloria"
+		 />
 
 	<!-- Aleluya / Honor y gloria -->
 	<project path="partituras/aleluyaalcreador"
