@@ -153,6 +153,11 @@
 		 title="Hemos entregado nuestras vidas"
 		 category="Ofertorio"
 		 />
+	<project path="partituras/ofertorioccamacho"
+		 name="ofertorioccamacho.git"
+		 title="Ofertorio (C. Camacho)"
+		 category="Ofertorio"
+		 />
 	<project path="partituras/ofertoriogflores"
 		 name="ofertoriogflores.git"
 		 title="Ofertorio (G. Flores)"
