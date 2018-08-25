@@ -71,6 +71,11 @@
 		 />
 
 	<!-- Gloria -->
+	<project path="partituras/glorialabamba"
+		 name="glorialabamba.git"
+		 title="Gloria (Bamba)"
+		 category="Gloria"
+		 />
 	<project path="partituras/gloriacombo"
 		 name="gloriacombo.git"
 		 title="Gloria (combo)"
