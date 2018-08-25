@@ -103,6 +103,12 @@
 		 title="Aleluya (Cristo Rey)"
 		 category="Aleluya / Honor y gloria"
 		 />
+	<project path="partituras/aleluyaprimeroyultimo"
+		 name="aleluyaprimeroyultimo.git"
+		 title="Aleluya (El primero y el último)"
+		 category="Aleluya / Honor y gloria"
+		 score="aleluyaenmi"
+		 />
 	<project path="partituras/aleluyagflores"
 		 name="aleluyagflores.git"
 		 title="Aleluya (G. Flores)"
@@ -110,15 +116,9 @@
 		 />
 	<project path="partituras/aleluyaloscielos"
 		 name="aleluyaloscielos.git"
-		 title="Aleluya (los cielos y la tierra)"
+		 title="Aleluya (Los cielos y la tierra)"
 		 category="Aleluya / Honor y gloria"
 		 score="loscielos"
-		 />
-	<project path="partituras/aleluyaprimeroyultimo"
-		 name="aleluyaprimeroyultimo.git"
-		 title="Aleluya (Primero y último)"
-		 category="Aleluya / Honor y gloria"
-		 score="aleluyaenmi"
 		 />
 	<project path="partituras/aleluyapvaldes"
 		 name="aleluyapvaldes.git"
