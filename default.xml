@@ -168,6 +168,11 @@
 		 title="Ofertorio (G. Flores)"
 		 category="Ofertorio"
 		 />
+	<project path="partituras/panyvinosobreelaltar"
+		 name="panyvinosobreelaltar.git"
+		 title="Pan y vino sobre tu altar"
+		 category="Ofertorio"
+		 />
 
 	<!-- Santo -->
 	<project path="partituras/santogenrv"
