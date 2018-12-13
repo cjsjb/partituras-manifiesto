@@ -175,6 +175,11 @@
 		 />
 
 	<!-- Santo -->
+	<project path="partituras/santoacunna"
+		 name="santoacunna.git"
+		 title="Santo (Acuña)"
+		 category="Santo"
+		 />
 	<project path="partituras/santogenrv"
 		 name="santogenrv.git"
 		 title="Santo (Gen R/V)"
