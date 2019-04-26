@@ -329,8 +329,8 @@
 		 />
 
 	<!-- Utilerías -->
-	<project path="utilerias"
-		 name="utilerias.git"
-		 />
+	<project path="utilerias" name="utilerias.git">
+		<linkfile dest="README" src="README"/>
+	</project>
 
 </manifest>
